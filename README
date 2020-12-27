@@ -1,2 +1,9 @@
 some utility scripts
 
+# svnchanges
+Sometimes, you would need to find out since when a certain function or API has been committed, and then determine the Jira ID of that commit. 'svnchanges' can show the differences for each commit over a period of time.
+
+# vimm
+In the 'grep' result, the format is typically filename.c:line_number ... when we would like to edit filename.c and quickly go to the line 'line_number', the command would be 'vim filename.c +line_number'. 'vimm filename.c:line_number' can do the same thing, while getting more handy by pasting the a line of grep search result.
+
+
