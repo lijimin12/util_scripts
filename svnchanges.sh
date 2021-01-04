@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e
+
 #echo $#argv
 #echo $0
 #echo $1
