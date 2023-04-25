@@ -1,5 +1,5 @@
 #!/bin/bash
-# this prints out all local branches status
+# prints out all local branches status. won't change current branch
 
 # exit on error
 set -e
