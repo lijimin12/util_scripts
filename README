@@ -16,3 +16,4 @@ List the status of all local git branches.
 # vimm
 In the 'grep' result, the format is typically filename.c:line_number ... when we would like to edit filename.c and quickly go to the line 'line_number', the command would be 'vim filename.c +line_number'. 'vimm filename.c:line_number' can do the same thing, while getting more handy by pasting the a line of grep search result.
 
+
